@@ -1,5 +1,5 @@
 ---
 - name: i want to create file on nodes
   file:
-      path: /home/ravi/ravi.txt
+      path: /home/pavan/ravi.txt
       state: touch
